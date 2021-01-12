@@ -3,4 +3,3 @@ These codes are intended to reproduce the results in the paper McClarren, R. G. 
 
 The codes can take a while to run, so you might want to decrease I or N for your first run.
 
-Right not only the data for Pu sphere problem is present.
